@@ -19,7 +19,7 @@ $ npm install -g pbctl
 $ pbctl COMMAND
 running command...
 $ pbctl (-v|--version|version)
-pbctl/0.0.0 darwin-arm64 node-v16.8.0
+pbctl/0.0.0 darwin-arm64 node-v14.16.0
 $ pbctl --help [COMMAND]
 USAGE
   $ pbctl COMMAND
